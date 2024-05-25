@@ -7,4 +7,4 @@ int main()
       *ptr=*ptr*5;
       printf("%d",a);
       return 0;
-}
+}}
